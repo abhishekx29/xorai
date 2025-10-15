@@ -9385,7 +9385,7 @@ ol.wp-block-rss {
     font-weight: 700;
     font-family: var(--title-font);
     line-height: 0.78;
-    color: var(--gray-color);
+    color:rgb(203, 203, 203)
     text-transform: uppercase;
     margin-top: -0.02em;
     margin-bottom: 42px;
